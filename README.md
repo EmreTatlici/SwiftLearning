@@ -83,9 +83,11 @@ Asynchronous programming is essential for dealing with tasks that take time to c
  ***
  
 To begin your Swift learning journey, you’ll need Xcode and a Playground environment. Here’s how to get started:
+
 	    1.	Downloading Xcode
 Follow the steps in the downloadingXcode file to download and install Xcode on your macOS.
 You can find the file here: https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
+
       2.	Creating a Playground
 Once Xcode is installed, you can create a Playground by following these steps:
 	•	Open Xcode and choose “Create a new Xcode project.”
