@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Generics.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Extensions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Protocolos.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Classes.playground">
+   </FileRef>
+   <FileRef
       location = "group:Enumerations.playground">
    </FileRef>
    <FileRef
